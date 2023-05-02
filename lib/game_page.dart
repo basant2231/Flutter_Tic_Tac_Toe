@@ -106,7 +106,7 @@ class _GamePageState extends State<GamePage> {
                   : const Color(0xFF303960),
           borderRadius: BorderRadius.circular(40),
         ),
-        margin: const EdgeInsets.all(8),
+        margin: const EdgeInsets.all(9),
         child: Center(
           child: Text(
             occupied[index],
